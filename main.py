@@ -21,4 +21,4 @@ while Play_or_no_Play == "Y":
         "Would you like to play again! 'Y' or any other char to quit: "
     ).upper()
 
-Print("Exiting the game ✋🏽")
+print("Exiting the game ✋🏽")
